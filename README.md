@@ -1,2 +1,2 @@
 # note
-Wendell's private work notes ,have a password.
+Wendell's private work notes ,with passwords.
